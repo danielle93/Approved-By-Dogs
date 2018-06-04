@@ -427,7 +427,7 @@ height:800px;
   display: flex;
   flex-direction: column;
   position: relative;
-    bottom:180px;
+    bottom:150px;
 }
 
 #pricing article img{
